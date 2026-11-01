@@ -34,7 +34,6 @@ It combines blockchain technology and artificial intelligence to support transpa
 - SQL Database
 - HTML, CSS, JavaScript
 
-*Note: Update this list to match the technologies actually implemented in the project.*
 
 ## Project Type
 
